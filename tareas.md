@@ -20,6 +20,6 @@
 
 * Crear una instancia de Dessert con los valores "Ice cream" para name y 400 para calories. Guardar esa instancia en una variable con el nombre de su elección
 
-* Crear una instancia de JellyBean con los valores "Ice cream" para name, 400 para calories y "black licorice" para flavor. Guardar esa instancia en una variable con el nombre de su elección
+* Crear una instancia de JellyBean con los valores "Ice cream" para name, 50 para calories y "black licorice" para flavor. Guardar esa instancia en una variable con el nombre de su elección
 
 * Utilizar los métodos delicious? y healthy? de cada uno de nuestros objetos creados y comprobar que funcionan como lo esperado

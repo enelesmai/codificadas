@@ -30,7 +30,7 @@ class JellyBean < Dessert
 end
 
 dessert1=Dessert.new("icecream",400)
-dessert2=JellyBean.new("icecream",400,"black licorice")
+dessert2=JellyBean.new("icecream",50,"black licorice")
 puts "**************************************************"
 puts "Datos del postre 1:"
 puts "Nombre: #{dessert1.name}"
