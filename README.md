@@ -15,7 +15,7 @@ Instrucciones:
 
 Hay una serie de tareas que debemos realizar siguiendo el flujo de trabajo indicado por los instructores
 
-1.- Asegúrese de agregar su nombre después de la sección 'repositorio mantenido por'
+1.- Asegúrese de agregar su nombre después de la sección 'repositorio mantenido por' dejando un espacio entre cada nombre
 
 2.- Tome la siguiente tarea disponible en el archivo tareas.md
 
