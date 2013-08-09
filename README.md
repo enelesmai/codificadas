@@ -6,6 +6,7 @@ Un repositorio de prueba para el mini-taller sobre flujo de trabajo con Git y Gi
 Repositorio mantenido por:
 
 Fernando Perales
+Ana Inzunza Baez
 
 ===========
 
