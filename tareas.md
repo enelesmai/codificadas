@@ -1,4 +1,4 @@
-* Crear una clase Dessert
+* Crear una clase Dessert ✔ (por Ana Inzunza Baez)
 
 * Agregar a la clase Postre attr_accessor para dos atributos llamados calories y name
 
